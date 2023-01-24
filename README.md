@@ -6,7 +6,7 @@
 
 ![CSV Filter Screen Shot][csv-filter-screenshot]
 
-CSV Filter is a web-based application that can filter data on csv file using insertion sort algorithm. Besides uploading, users can also download file that have been sorted.
+[CSV Filter](https://agungmahadana-csv-filter-main-j3vp6p.streamlit.app/) is a web-based application that can filter data on csv file using insertion sort algorithm. Besides uploading, users can also download file that have been sorted.
 
 Use the `README.md` to get started.
 
